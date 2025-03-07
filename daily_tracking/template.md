@@ -3,9 +3,9 @@
 This is the template I use for daily work tracking. I create a new daily tracking note for every month so they do not become cluttered.
 I also like that each month is a collection of work itself. If there is something to carry over, do so, but the more contained the document the better.
 
-### Goals for the month
+### Initiative goals for the month
 
-* Look into opportunities for conference talks
+* [ ] Ship the speed up project
 
 ### To do
 
